@@ -136,6 +136,9 @@
   <ItemGroup>
     <ClCompile Include="imageToWave.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SerialPort.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
